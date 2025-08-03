@@ -12,10 +12,12 @@
   "dependencies": {
     "express": "^5.1.0"
   }
-}
-
-"scripts": {
+  ,
+  "scripts": {
   "start": "node index.js"
 }
+}
+
+
 
 
